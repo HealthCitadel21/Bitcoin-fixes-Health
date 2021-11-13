@@ -1,5 +1,5 @@
 # Bitcoin-fixes-Health
-A theoretical framework
+A theoretical framework (draft)
 
 Argument: Unsound money (fiat) is the root cause of the health problem. Sound money (Bitcoin) is the solution to the health problem. 
 
