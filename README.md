@@ -57,7 +57,9 @@ Notes:
 
 
 
-
+-----
+Bitcoin is proof of work
+Mining health is the consistent application of energy to solve problems
 
 
 
